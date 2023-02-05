@@ -40,14 +40,14 @@ width: 24px;
 
 /* main body */
 main{
-    padding: 25px 0 0 40px;
+    padding: 25px 40px;
 }
 
-section{
+main section{
     display: flex;
     column-gap: 20px;
 }
-section img{
+main section img{
 width: 125px;
 height: 168px;
 border-radius: 5px;
